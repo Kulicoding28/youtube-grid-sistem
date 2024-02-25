@@ -17,11 +17,11 @@ export const data = [
   },
   {
     title: "test4",
-    image: "../public/main5.png",
+    image: "../public/main4.png",
   },
   {
     title: "test5",
-    image: "../public/main4.png",
+    image: "../public/main6.png",
   },
   {
     title: "test6",
